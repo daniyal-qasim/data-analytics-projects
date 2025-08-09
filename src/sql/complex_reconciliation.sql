@@ -1,4 +1,4 @@
--- 03_reconciliation_candidates.sql
+-- Reconciliation_candidates.sql
 -- Find invoices with no matching vendor_id and suggest candidate vendors by vendor_code similarity and latest activity.
 
 SELECT
